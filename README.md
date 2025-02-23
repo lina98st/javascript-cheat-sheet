@@ -4,7 +4,7 @@ Eine Sammlung von Code-Beispielen, die ich oft brauche. Diese Beispiele sollen a
 
 ## Dateien und Inhalte
 
-### Allgemeine Grundlagen
+### Allgemeine Grundlagen:
 
 - **`variables.js`**: Variablen und Scopes
 - **`functions.js`**: Funktionen und Arrow Functions
